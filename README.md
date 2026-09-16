@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohammed-Azhar-10/Grocery-Store-Sales-Analysis-Excel/main/Screenshot%20of%20dashborad.png" alt="Supermarket Grocery Sales Dashboard" width="100%">
+<img src="https://raw.githubusercontent.com/Mohammed-Azhar-10/Grocery-Sales-and-Profitability-Analysis/main/Screenshot%20of%20dashborad.png" alt="Supermarket Grocery Sales Dashboard" width="100%">
 </div>
 
 ---
